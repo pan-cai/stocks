@@ -1,0 +1,4 @@
+{
+  "test_solver.py::TestSolver::test_demo": true,
+  "test_solver.py::TestSolver::test_negative_discr": true
+}
